@@ -1,0 +1,4 @@
+﻿  Pokemon3.cpp
+C:\Users\alang\Documents\Cursos\POO Udemy\Pokemon3\Pokemon3.cpp(280,24): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alang\Documents\Cursos\POO Udemy\Pokemon3\Pokemon3.cpp(428,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Pokemon3.vcxproj -> C:\Users\alang\Documents\Cursos\POO Udemy\Pokemon3\x64\Debug\Pokemon3.exe
